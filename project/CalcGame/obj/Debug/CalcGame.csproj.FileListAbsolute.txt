@@ -1,0 +1,11 @@
+C:\Users\igorb\source\repos\CalcGame\CalcGame\bin\Debug\CalcGame.exe.config
+C:\Users\igorb\source\repos\CalcGame\CalcGame\bin\Debug\CalcGame.exe
+C:\Users\igorb\source\repos\CalcGame\CalcGame\bin\Debug\CalcGame.pdb
+C:\Users\igorb\source\repos\CalcGame\CalcGame\obj\Debug\CalcGame.csproj.AssemblyReference.cache
+C:\Users\igorb\source\repos\CalcGame\CalcGame\obj\Debug\CalcGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\igorb\source\repos\CalcGame\CalcGame\obj\Debug\CalcGame.Form1.resources
+C:\Users\igorb\source\repos\CalcGame\CalcGame\obj\Debug\CalcGame.Properties.Resources.resources
+C:\Users\igorb\source\repos\CalcGame\CalcGame\obj\Debug\CalcGame.csproj.GenerateResource.cache
+C:\Users\igorb\source\repos\CalcGame\CalcGame\obj\Debug\CalcGame.csproj.CoreCompileInputs.cache
+C:\Users\igorb\source\repos\CalcGame\CalcGame\obj\Debug\CalcGame.exe
+C:\Users\igorb\source\repos\CalcGame\CalcGame\obj\Debug\CalcGame.pdb
